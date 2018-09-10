@@ -1,0 +1,22 @@
+{
+  "name": "pccomponentes/criteria-doctrine-adapter",
+  "description": "Adapter for doctrine for implement filter/criteria pattern",
+  "authors": [
+    {
+      "name": "Aaron Bernabeu Rodríguez",
+      "email": "aaron.bernabeu@pccomponentes.com"
+    }
+  ],
+  "license": "MIT",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Pccomponentes\\CriteriaDoctrineAdapter\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^7.2",
+    "pccomponentes/criteria": "dev-master",
+    "doctrine/collections": "^1.5"
+  }
+}
