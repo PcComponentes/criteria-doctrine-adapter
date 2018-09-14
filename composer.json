@@ -16,7 +16,7 @@
   },
   "require": {
     "php": "^7.2",
-    "pccomponentes/criteria": "dev-master",
+    "pccomponentes/criteria": "^0.0.1",
     "doctrine/collections": "^1.5"
   }
 }
