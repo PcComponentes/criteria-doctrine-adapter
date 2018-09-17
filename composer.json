@@ -16,7 +16,7 @@
   },
   "require": {
     "php": "^7.2",
-    "pccomponentes/criteria": "^0.0.1",
+    "pccomponentes/criteria": "~0.0",
     "doctrine/collections": "^1.5"
   }
 }
